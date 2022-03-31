@@ -18,7 +18,7 @@ const DUMMY_PLACES = [
     },
     {
         id: "p2",
-        title: "Empire",
+        title: "Empire22",
         description: "DASDASDADA",
         imageUrl: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Empire_State_Building_from_the_Top_of_the_Rock.jpg",
         address: "New York ",
